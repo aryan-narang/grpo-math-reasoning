@@ -33,6 +33,6 @@ Qwen2.5-1.5B · PyTorch · HuggingFace TRL · PEFT/LoRA · bitsandbytes 4-bit ·
 ## Run it yourself
 
 Open the notebook in Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryan-narang/grpo-math-reasoning/blob/main/grpo_math_reasoning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryan-narang/grpo-math-reasoning/blob/main/grpo.ipynb)
 
 Requirements: T4 GPU (free Colab tier), ~2 hours for 500 training steps.
